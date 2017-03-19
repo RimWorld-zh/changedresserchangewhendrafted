@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Change Dresser - Change When Drafted</name>
+	<author>Kiame</author>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>Addon for Change Dresser.
+	
+Allows a pawn to instantly switch to a designated apparel group. Ideal for fighters who don't want to wear out their expensive (power) armor and instead want to wear normal cloths. If they're attached np! As soon as they're drafted they'll switch to their armor.</description>
+</ModMetaData>
